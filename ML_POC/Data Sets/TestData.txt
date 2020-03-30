@@ -1,0 +1,23 @@
+Invoice for UK Attached|Yes
+Invoice for KL Attached|Yes
+UK Attached Invoice|Yes
+February Invoice UK|Yes
+United Kingdom Feb 2020 Invoice|Yes
+KL Invoice Appended|Yes
+Invoice for February 2020 KL|Yes
+UK Feb 2020 Invoice|Yes
+Invoice Attachment for the month of Feb|Yes
+KL March 2020|Yes
+December 2019|Yes
+KL Feb 2020|Yes
+November 2019|Yes
+Sensitivity Training|No
+Happy New Year|No
+Town Hall with CEO|No
+Announcement of New Acquisition|No
+Cafeteria Renovation|No
+Workplace enhancement HR|No
+Global Sales Forecast|No
+Q3 Earnings Report|No
+A Letter from the CEO|No
+Work from home policy|No
